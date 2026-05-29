@@ -1,0 +1,147 @@
+[
+    {
+        "Register Number": "101",
+        "Name": "Arjun",
+        "Department": "Computer Science",
+        "Marks": [
+            85,
+            90,
+            88,
+            92
+        ],
+        "Average": 88.75,
+        "Grade": "A",
+        "Courses": [
+            "Python Programming",
+            "Data Structures",
+            "Database Systems",
+            "Machine Learning"
+        ],
+        "Fee": 18000.0
+    },
+    {
+        "Register Number": "102",
+        "Name": "Sneha",
+        "Department": "Electronics",
+        "Marks": [
+            78,
+            82,
+            80,
+            76
+        ],
+        "Average": 79.0,
+        "Grade": "A",
+        "Courses": [
+            "Digital Electronics",
+            "Microprocessors",
+            "Embedded Systems"
+        ],
+        "Fee": 15000
+    },
+    {
+        "Register Number": "103",
+        "Name": "Rahul",
+        "Department": "Mechanical",
+        "Marks": [
+            65,
+            70,
+            68,
+            72
+        ],
+        "Average": 68.75,
+        "Grade": "B",
+        "Courses": [
+            "Thermodynamics",
+            "Fluid Mechanics"
+        ],
+        "Fee": 10000
+    },
+    {
+        "Register Number": "104",
+        "Name": "Priya",
+        "Department": "Civil",
+        "Marks": [
+            92,
+            95,
+            94,
+            91
+        ],
+        "Average": 93.0,
+        "Grade": "A+",
+        "Courses": [
+            "Structural Engineering",
+            "Surveying",
+            "Construction Management",
+            "Environmental Engineering"
+        ],
+        "Fee": 18000.0
+    },
+    {
+        "Register Number": "105",
+        "Name": "Kiran",
+        "Department": "Information Technology",
+        "Marks": [
+            55,
+            60,
+            58,
+            62
+        ],
+        "Average": 58.75,
+        "Grade": "C",
+        "Courses": [
+            "Networking",
+            "Cyber Security"
+        ],
+        "Fee": 10000
+    },
+    {
+        "Register Number": "110",
+        "Name": "Diya",
+        "Department": "AIML",
+        "Marks": [
+            100,
+            98
+        ],
+        "Average": 99.0,
+        "Grade": "A+",
+        "Courses": [
+            "DAA",
+            "DSA"
+        ],
+        "Fee": 10000
+    },
+    {
+        "Register Number": "106",
+        "Name": "shivani",
+        "Department": "AI",
+        "Marks": [
+            100,
+            99
+        ],
+        "Average": 99.5,
+        "Grade": "A+",
+        "Courses": [
+            "Python",
+            "IEE"
+        ],
+        "Fee": 10000
+    },
+    {
+        "Register Number": "209",
+        "Name": "Cg",
+        "Department": "AIML",
+        "Marks": [
+            67,
+            98,
+            75
+        ],
+        "Average": 80.0,
+        "Grade": "A",
+        "Courses": [
+            "PYthon",
+            "DSA",
+            "IEE"
+        ],
+        "Fee": 15000
+    }
+]
